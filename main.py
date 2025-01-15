@@ -2,7 +2,7 @@ from tkinter import *
 from random import choice
 
 root = Tk()
-root.title('venom')
+root.title('game')
 root.geometry('800x500')
 root.resizable(width=False, height=False)
 root['bg'] = 'black'
